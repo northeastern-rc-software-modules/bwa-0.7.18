@@ -1,0 +1,16 @@
+#%Module
+module-whatis	 "Loads bwa/0.7.18 module.
+
+This module was built on Mon Nov  4 12:41:17 PM EST 2024
+
+bwa
+
+The script used to build this module can be found here: https://github.com/northeastern-rc-software-modules/bwa-0.7.18
+
+To load the module, type:
+module load bwa/0.7.18
+
+"
+
+conflict	 bwa
+prepend-path	 PATH /shared/EL9/explorer/bwa/0.7.18/bwa
